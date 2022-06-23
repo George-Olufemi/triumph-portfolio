@@ -19,5 +19,13 @@
 }
 
 .card__body {
-  background-image: url('');
+  background-image: url('pitch-background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: blur(8px);
+}
+
+.card {
+  backdrop-filter: blur(10px);
 }

@@ -1,5 +1,6 @@
 import React from "react";
 import '../App.css';
+import Cards from "./Cards";
 
 function Body() {
   return(
@@ -17,6 +18,7 @@ function Body() {
                     <h1 className="uppercase font-bold text-center text-lg tracking-wider">contact</h1>
                 </div>
             </div>
+            <Cards />
         </div>
     </React.Fragment>
   );

@@ -7,9 +7,7 @@ function App() {
     <React.Fragment>
       <div className='bg-black text-white'>
         <Head />
-      <div className=''>
         <Body />
-      </div>
       </div>
     </React.Fragment>
   );
