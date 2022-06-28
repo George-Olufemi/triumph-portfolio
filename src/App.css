@@ -19,13 +19,12 @@
 }
 
 .card__body {
-  background-image: url('pitch-background.png');
+  background-image: url('pitch-background-blur.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  filter: blur(8px);
 }
 
-.card {
-  backdrop-filter: blur(10px);
+.footer {
+  background-color: #999999;
 }
