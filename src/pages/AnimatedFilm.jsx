@@ -9,7 +9,7 @@ export default function AnimatedFilm() {
             <div className="mt-20 md:justify-around md:hidden">
                 <iframe className="mb-5 rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/rmqJq3XejhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe className="mb-5 rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/u_lbZ8DdKFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <iframe className="rounded-lg mb-5" width="350" height="350" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className="mb-5 rounded-lg" width="350" height="350" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             </center>
         {/* lg */}
@@ -17,7 +17,7 @@ export default function AnimatedFilm() {
                 <iframe className="rounded-lg"  width="560" height="315" src="https://www.youtube.com/embed/rmqJq3XejhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe className="rounded-lg"  width="560" height="315" src="https://www.youtube.com/embed/u_lbZ8DdKFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="md:flex justify-around mt-5 hidden">
+            <div class="md:flex justify-around mt-5 hidden mb-5">
                 <iframe className="rounded-lg" width="560" height="315" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
