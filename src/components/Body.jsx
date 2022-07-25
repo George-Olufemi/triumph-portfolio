@@ -8,7 +8,7 @@ function Body() {
     <React.Fragment>
         <div className='h-auto text-white bg-black'>
             {/*  */}
-            <div className="pt-12 pb-10  md:grid md:grid-row-3 md:grid-cols-3 md:px-64">
+            <div className="px-4 pt-12 pb-10 md:grid md:grid-row-3 md:grid-cols-3 md:px-64">
                 <Link to="/animated-film">    
                     <div className="py-3 rounded-l-full cursor-pointer bg-gradient-to-b from-gray-700 via-gray-900 to-black">
                         <h1 className="text-lg font-bold tracking-wider text-center uppercase">animated films</h1>

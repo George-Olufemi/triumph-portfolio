@@ -17,7 +17,7 @@ export default function AnimatedFilm() {
                 <iframe className="rounded-lg"  width="560" height="315" src="https://www.youtube.com/embed/rmqJq3XejhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <iframe className="rounded-lg"  width="560" height="315" src="https://www.youtube.com/embed/u_lbZ8DdKFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="fmd:flex justify-around mt-5 hidden">
+            <div class="md:flex justify-around mt-5 hidden">
                 <iframe className="rounded-lg" width="560" height="315" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
