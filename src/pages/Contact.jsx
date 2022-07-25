@@ -2,8 +2,10 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <div>
-      contact
-    </div>
+    <React.Fragment>
+      <div>
+
+      </div>
+    </React.Fragment>
   )
 }

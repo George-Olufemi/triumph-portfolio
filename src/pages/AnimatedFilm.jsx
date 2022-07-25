@@ -7,9 +7,9 @@ export default function AnimatedFilm() {
         {/* mobile */}
             <center>
             <div className="mt-20 md:justify-around md:hidden">
-                <iframe className="rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/rmqJq3XejhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <iframe className="rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/u_lbZ8DdKFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <iframe className="rounded-lg" width="350" height="350" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className="mb-5 rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/rmqJq3XejhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className="mb-5 rounded-lg"  width="350" height="350" src="https://www.youtube.com/embed/u_lbZ8DdKFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className="rounded-lg mb-5" width="350" height="350" src="https://www.youtube.com/embed/qv8ryLHAZdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             </center>
         {/* lg */}
